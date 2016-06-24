@@ -1,5 +1,7 @@
 # edge jsapi 中文版
 
+[官方地址](http://www.adobe.com/devnet-docs/edgeanimate/api/)
+
 - [预览](docs/Overview.md)
 - [触发器,事件和行为](docs/Triggers_Events_and_Actions.md)
 - [元件](docs/Symbols.md)
